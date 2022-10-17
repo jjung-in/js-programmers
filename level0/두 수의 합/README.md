@@ -1,30 +1,18 @@
 # 두 수의 합
-
 > 출처 : <https://school.programmers.co.kr/learn/courses/30/lessons/120802>
 
-<br/>
-
 ### 문제
-
 정수 `num1`과 `num2`가 주어질 때, `num1`과 `num2`의 합을 return 하도록 soltuion 함수를 완성해주세요.
 
-<br/>
-
 ### 조건
-
 - -50,000 ≤ `num1` ≤ 50,000
 - -50,000 ≤ `num2` ≤ 50,000
 
-<br/>
-
 ### 입출력 예
-
 | num1 | num2 | result |
 | :--: | :--: | :----: |
 |  2   |  3   |   5    |
 | 100  |  2   |  102   |
-
-<br/>
 
 ## 나의 풀이
 ``` javascript
