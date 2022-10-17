@@ -27,7 +27,6 @@
 <br/>
 
 ## 나의 풀이
-***
 ``` javascript
 function solution(num1, num2) {
   return num1 + num2;
